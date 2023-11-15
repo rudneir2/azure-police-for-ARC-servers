@@ -1,4 +1,4 @@
-# Azure-Police-For-ARC-Servers
+# Azure-Policy-For-ARC-Servers
 What Azure Policies can you use to automate Azure Monitor Agent installation on ARC Servers?
 
 ## Quick Intro
